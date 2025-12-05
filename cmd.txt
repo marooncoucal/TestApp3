@@ -1,1 +1,5 @@
-"build": "tsc -b && vite build",  ----->    "build": "vite build --base=/TestApp3/",
+1. верстаем сайт
+2. package.json — "build": "tsc -b && vite build",  ----->    "build": "vite build --base=/TestApp3/",
+3. npm run build
+4. копируем dist в build
+5. комит пуш
